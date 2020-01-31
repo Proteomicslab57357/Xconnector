@@ -32,9 +32,9 @@ In future, we aim to include the most used databases for metabolites data.
 
   For Windows 10 (64-bit system) users, two options to run Xconnector:
 
-1.1. Download it as normal Windows 10 software (executable program), with no need for any dependencies.
+  1.1. Download it as normal Windows 10 software (executable program), with no need for any dependencies.
 
-1.2. Install it as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
+  1.2. Install it as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
 
 * For Linux:
 Install Xconnector as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
