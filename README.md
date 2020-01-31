@@ -20,7 +20,9 @@ In future, we aim to include the most used databases for metabolites data.
 
 # Workflow implementation
 
-![](https://raw.githubusercontent.com/Proteomicslab57357/Xconnector/master/image/Untitled%20Diagram%20(1).png?token=AKDJST2LMXR3JWZMH6L6GMS6GQO6Y)
+
+![](https://github.com/Proteomicslab57357/Xconnector/blob/master/image/Untitled%20Diagram%20(1).png)
+
 
 * This workflow summarizes how Xconnector works. Using a graphical user interface (GUI), the user could import different type of input as database IDs or keyword from a CSV file or text file. Then send it to the application programming interface (API), the API connect one or all databases to retrieve and parse the information that made hits with the user input. Finally, the API send it back to the GUI to be displayed for the user.
 
@@ -29,12 +31,9 @@ In future, we aim to include the most used databases for metabolites data.
 **A main requirement is a speed internet connection.**
 
 * For Windows:
-
-  For Windows 10 (64-bit system) users, two options to run Xconnector:
-
-  1.1. Download it as normal Windows 10 software (executable program), with no need for any dependencies.
-
-  1.2. Install it as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
+For Windows 10 (64-bit system) users, two options to run Xconnector:
+1.1. Download it as normal Windows 10 software (executable program), with no need for any dependencies.
+1.2. Install it as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
 
 * For Linux:
 Install Xconnector as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
