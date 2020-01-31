@@ -52,3 +52,23 @@ Install Xconnector as a python package using pip. All the dependencies needed wi
 pip install Xconnector
 ```
 * For Windows 10 users the Executable program can be downloaded from: Link
+
+# How to download and install
+
+* For Windows 10 users only.
+
+  Download the zip file from. After, extract it and double click on the icon named Xconnector.exe to run the software.
+
+* For any operating system.
+
+  Download and install Python >=3.7. Using pip download the Xconnector package as ( pip install Xconnector ). Then, Open python and run the package to run the GUI as:
+
+```python
+>>> From Xconnector import GUI
+>>> GUI( )
+```
+# Documentation
+
+* For API function documentaion: Link
+
+* For GUI documentation: Link
