@@ -17,3 +17,9 @@ In future, we aim to include the most used databases for metabolites data.
 * The API function connects databases in Xconnector is made to be programmatically efficient. Using python generators implementation, only one query is called from the database each time by the API. This will reduce the memory used by Xconnector, as well as overcome the errors that could occur during the slow internet connection.
 
 * After the API sends the output to the GUI. Xconnector utilises multithreading to allow efficient execution for the GUI, which allow multitasking and converting data between the GUI and the API.
+
+# Workflow implementation
+
+![](https://raw.githubusercontent.com/Proteomicslab57357/Xconnector/master/image/Untitled%20Diagram%20(1).png?token=AKDJST2LMXR3JWZMH6L6GMS6GQO6Y)
+
+* This workflow summarizes how Xconnector works. Using a graphical user interface (GUI), the user could import different type of input as database IDs or keyword from a CSV file or text file. Then send it to the application programming interface (API), the API connect one or all databases to retrieve and parse the information that made hits with the user input. Finally, the API send it back to the GUI to be displayed for the user.
