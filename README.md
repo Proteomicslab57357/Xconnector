@@ -41,3 +41,12 @@ Install Xconnector as a python package using pip. All the dependencies needed wi
 
 * For Mac:
 Install Xconnector as a python package using pip. All the dependencies needed will be installed automatically (Note: Python >=3.7 is required).
+
+# Software availability
+
+* The Package can be downloaded using pip as: 
+
+```python
+pip install Xconnector
+```
+* For Windows 10 users the Executable program can be downloaded from: Link
