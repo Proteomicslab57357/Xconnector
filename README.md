@@ -64,8 +64,7 @@ pip install Xconnector
   Download and install Python >=3.7. Using pip download the Xconnector package as ( pip install Xconnector ). Then, Open python and run the package to run the GUI as:
 
 ```python
->>> From Xconnector import GUI
->>> GUI( )
+>>> from Xconnector import Xconnector
 ```
 # Documentation
 
