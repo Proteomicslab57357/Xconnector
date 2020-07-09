@@ -71,4 +71,4 @@ pip install Xconnector
 
 * For API function documentaion: Link
 
-* For GUI documentation: https://github.com/Proteomicslab57357/Xconnector/blob/master/Documentation.pdf
+* For GUI documentation: [doc.](https://github.com/Proteomicslab57357/Xconnector/blob/master/Documentation.pdf)
