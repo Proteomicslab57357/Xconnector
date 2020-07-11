@@ -51,7 +51,7 @@ Install Xconnector as a python package using pip. All the dependencies needed wi
 ```python
 pip install Xconnector
 ```
-* For Windows 10 users the Executable program can be downloaded from: Link
+* For Windows 10 users the Executable program can be downloaded from: [Link](https://beta.57357.org/wp-content/themes/57357/programs/Xconnector.zip)
 
 # How to download and install
 
