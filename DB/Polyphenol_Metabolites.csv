@@ -1,0 +1,373 @@
+id,name,molecular_weight,synonyms,formula,cas_number,chebi_id,pubchem_compound_id,created_at,updated_at
+743,4'-O-Methylcyanidin 3-O-D-glucoside,463.411,"",C22H23O11,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:00 UTC
+758,4'-O-Methyldelphinidin 3-O-rutinoside,625.552,"",C28H33O16,"","","",2011-05-02 10:31:17 UTC,2015-05-10 23:29:01 UTC
+748,4-O-Methyldelphinidin 3-O-D-glucoside,479.411,"",C22H23O12,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+19,Cyanidin,287.244,"3,5,7,3',4'-Pentahydroxyflavylium",C15H11O6,13306-05-3,27843,128861,2004-11-22 00:00:00 UTC,2015-05-10 23:28:37 UTC
+71,"Cyanidin 3,5-O-diglucoside",611.525,"",C27H31O16,"","",441688,2005-04-26 00:00:00 UTC,2015-05-10 23:28:38 UTC
+757,Cyanidin 3-O-(2-O-(6-O-(E)-caffeoyl-D glucoside)-D-glucoside)-5-O-D-glucoside,949.835,"",C43H49O24,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+745,"Cyanidin 3-O-(3'',6''-O-dimalonyl-glucoside)",621.477,"",C27H25O17,"","",23724697,2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+13,Cyanidin 3-O-(6''-malonyl-glucoside),535.431,"",C24H23O14,"","",443915,2004-04-14 14:20:32 UTC,2015-05-10 23:28:36 UTC
+32,Cyanidin 3-O-arabinoside,419.359,"",C20H19O10,"","","",2002-08-22 11:51:47 UTC,2015-05-10 23:28:37 UTC
+735,Cyanidin 3-O-diglucoside-5-O-glucoside,773.666,"",C33H41O21,"","","",2011-04-17 13:47:42 UTC,2015-05-10 23:29:00 UTC
+8,Cyanidin 3-O-galactoside,449.385,Ideain,C21H21O11,"",27475,441699,2002-08-22 11:51:47 UTC,2015-05-10 23:28:36 UTC
+9,Cyanidin 3-O-glucoside,449.385,Kuromanin,C21H21O11,7084-24-4,28426,25244576,2002-09-20 16:19:06 UTC,2015-05-10 23:28:36 UTC
+10,Cyanidin 3-O-rutinoside,595.526,Keracyanin ; Cyanidin 3-O-rhamnosyl-glucoside,C27H31O15,"",28064,441674,2002-09-20 16:19:39 UTC,2015-05-10 23:28:36 UTC
+50,Cyanidin 3-O-sambubioside,616.952,Cyanidin 3-O-xylosyl-glucoside,C26H29ClO15,"","","",2005-01-28 11:35:21 UTC,2015-05-10 23:28:38 UTC
+69,Cyanidin 3-O-sambubioside 5-O-glucoside,743.64,"",C32H39O20,"","","",2005-04-26 14:28:39 UTC,2015-05-10 23:28:38 UTC
+11,Cyanidin 3-O-sophoroside,611.525,"",C27H31O16,"","",11169452,2002-09-20 16:20:08 UTC,2015-05-10 23:28:36 UTC
+53,Cyanidin 3-O-xyloside,419.359,"",C20H19O10,"","","",2005-02-04 16:35:08 UTC,2015-05-10 23:28:38 UTC
+62,Cyanidin 3-O-xylosyl-rutinoside,727.641,"",C32H39O19,"","","",2005-04-26 15:16:30 UTC,2015-05-10 23:28:38 UTC
+29,Delphinidin 3-O-arabinoside,435.358,"",C20H19O11,"","",25087690,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+27,Delphinidin 3-O-galactoside,465.384,"",C21H21O12,"","","",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+28,Delphinidin 3-O-glucoside,465.384,"",C21H21O12,"","",165558,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+49,Delphinidin 3-O-rutinoside,611.525,"",C27H31O16,15674-58-5,"",5492231,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+749,Isopeonidin 3-O-arabinoside,433.385,"",C21H21O10,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+750,Isopeonidin 3-O-galactoside,463.411,"",C22H23O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+751,Isopeonidin 3-O-glucoside,463.411,3'-O-Methylcyanidin 3-O-glucoside,C22H23O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+752,Isopeonidin 3-O-rutinoside,609.553,"",C28H33O15,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+753,Isopeonidin 3-O-sambubioside,595.526,"",C27H31O15,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+754,Isopeonidin 3-O-xyloside,433.385,"",C21H21O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+37,Malvidin 3-O-arabinoside,463.411,"",C22H23O11,"","",25079994,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+54,Malvidin 3-O-galactoside,528.89,"",C23H25ClO12,30113-37-2,"",94409,2005-02-04 00:00:00 UTC,2015-05-10 23:28:38 UTC
+36,Malvidin 3-O-glucoside,493.437,"",C23H25O12,7228-78-6,"",443652,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+18,Pelargonidin,271.245,"3,5,7,4'-Tetrahydroxyflavylium",C15H11O5,7690-51-9,25863,67249,2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+51,Pelargonidin 3-O-(6''-malonyl-glucoside),519.432,"",C24H23O13,"","",443913,2005-01-28 16:02:36 UTC,2015-05-10 23:28:38 UTC
+12,Pelargonidin 3-O-glucoside,433.385,"",C21H21O10,18466-51-8,31967,9867509,2002-09-20 16:20:38 UTC,2015-05-10 23:28:36 UTC
+23,Pelargonidin 3-O-glucosyl-rutinoside,741.667,"",C33H41O19,"","","",2005-01-24 00:00:00 UTC,2015-05-10 23:28:37 UTC
+22,Pelargonidin 3-O-sophoroside,595.526,"",C27H31O15,"","",23724704,2005-01-24 00:00:00 UTC,2015-05-10 23:28:37 UTC
+738,Peonidin 3-O-(2-O-(6-O-(E)-caffeoyl-D-glucosyl)-D-glucoside)-5-O-D-glucoside,949.835,"",C43H49O24,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+55,Peonidin 3-O-arabinoside,449.385,"",C21H21O11,"","",5320508,2005-02-04 16:48:54 UTC,2015-05-10 23:28:38 UTC
+736,Peonidin 3-O-diglucoside-5-O-glucoside,787.693,"",C34H43O21,"","","",2011-04-17 13:47:42 UTC,2015-05-10 23:29:00 UTC
+34,Peonidin 3-O-galactoside,463.411,"",C22H23O11,"","","",2004-11-19 00:00:00 UTC,2015-05-10 23:28:37 UTC
+15,Peonidin 3-O-glucoside,463.411,"",C22H23O11,6906-39-4,"",443654,2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+16,Peonidin 3-O-rutinoside,609.553,"",C28H33O15,"","","",2004-11-19 00:00:00 UTC,2015-05-10 23:28:36 UTC
+740,Peonidin 3-O-sambubioside,595.526,"",C27H31O15,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+741,Peonidin 3-O-sambubioside-5-O-glucoside,757.667,"",C33H41O20,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+739,Peonidin 3-O-sophoroside,625.552,"",C28H33O16,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:54 UTC
+742,Peonidin 3-O-xyloside,433.385,"",C21H21O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+35,Petunidin 3-O-arabinoside,449.385,"",C21H21O11,"","",5320508,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+31,Petunidin 3-O-galactoside,479.411,"",C22H23O12,"","","",2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+33,Petunidin 3-O-glucoside,479.411,"",C22H23O12,6988-81-4,"",176449,2005-01-27 00:00:00 UTC,2015-05-10 23:28:37 UTC
+104,Butein,272.253,"3,4,2',4'-Tetrahydroxychalcone",C15H12O5,487-52-5,"",5281222,2007-05-21 00:00:00 UTC,2015-05-10 23:28:39 UTC
+108,Phloretin,274.269,"4,2',4',6'-Tetrahydroxydihydrochalcone",C15H14O5,60-82-2,17276,4788,2004-06-18 00:00:00 UTC,2015-05-10 23:28:40 UTC
+762,Phloretin 2'-O-glucuronide,450.393,"",C21H22O11,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+117,Dihydroquercetin,304.252,"3,5,7,3',4'-Pentahydroxyflavanone ; Taxifolin ; Distylin",C15H12O7,480-18-2,17948,10185,2002-09-04 16:07:19 UTC,2015-05-10 23:28:40 UTC
+124,(+)-Catechin,290.268,"3,5,7,3',4'-Pentahydroxyflavane",C15H14O6,154-23-4,15600,9064,2002-08-20 16:23:07 UTC,2015-05-10 23:28:40 UTC
+125,(-)-Epicatechin,290.268,"3,5,7,3',4'-Pentahydroxyflavane",C15H14O6,490-46-0,28466,72276,2002-08-20 16:48:58 UTC,2015-05-10 23:28:40 UTC
+128,(-)-Epicatechin 3-O-gallate,442.372,"",C22H18O10,1257-08-5,"","",2002-08-30 13:53:31 UTC,2016-06-02 09:50:11 UTC
+127,(-)-Epigallocatechin,306.267,"",C15H14O7,970-74-1,42255,72277,2002-08-30 13:52:22 UTC,2015-05-10 23:28:40 UTC
+786,(-)-Epigallocatechin 3'-O-glucuronide,482.392,"",C21H22O13,"","","",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+129,(-)-Epigallocatechin 3-O-gallate,458.372,"",C22H18O11,989-51-5,4806,65064,2002-09-03 15:08:22 UTC,2015-05-10 23:28:40 UTC
+780,(-)-Epigallocatechin 3-O-glucuronide,482.392,"",C21H22O13,"","","",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+787,(-)-Epigallocatechin 7-O-glucuronide,482.392,"",C21H22O13,"","","",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+784,3'-O-Methyl-(-)-epicatechin 7-O-glucuronide,480.419,"",C22H24O12,"","","",2011-04-10 14:45:27 UTC,2015-05-10 23:29:01 UTC
+770,3'-O-Methylcatechin,304.295,3'-O-methyl-(+)-catechin,C16H16O6,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:55 UTC
+766,3'-O-Methylepicatechin,304.295,3'-O-methyl-(-)-epicatechin,C16H16O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+774,4''-O-Methylepigallocatechin 3-O-gallate,472.398,"",C23H20O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+772,"4',4""-O-Dimethylepigallocatechin 3-O-gallate",486.425,"",C24H22O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+767,4'-O-Methyl-(-)-epicatechin 3'-O-glucuronide,480.419,"",C22H24O12,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+788,4'-O-Methyl-(-)-epigallocatechin 3'-O-glucuronide,496.418,"",C22H24O13,"","","",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+789,4'-O-Methyl-(-)-epigallocatechin 7-O-glucuronide,496.418,"",C22H24O13,"","","",2011-03-24 16:26:47 UTC,2015-05-10 23:29:01 UTC
+775,4'-O-Methylepicatechin,304.295,"",C16H16O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+773,4'-O-Methylepigallocatechin,320.294,4'-O-methyl-(-)-epigallocatechin,C16H16O7,"","",176920,2010-11-10 00:00:00 UTC,2015-04-14 03:50:55 UTC
+768,Epicatechin 3'-O-glucuronide,466.392,"",C21H22O12,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:37 UTC
+785,Epicatechin 7-O-glucuronide,466.392,"",C21H22O12,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+776,Epigallocatechin 3-O-gallate-7-O-glucoside-4''-O-glucuronide,796.636,"",C34H36O22,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+150,Procyanidin dimer B1,578.52,"EC-(4b,8)-C",C30H26O12,20315-25-7,"","",2002-08-29 13:57:03 UTC,2015-05-10 23:28:41 UTC
+151,Procyanidin dimer B2,578.52,"EC-(4b,8)-EC",C30H26O12,29106-49-8,"",122738,2002-08-21 14:48:07 UTC,2015-05-10 23:28:41 UTC
+152,Procyanidin dimer B3,578.52,"C-(4a,8)-C",C30H26O12,"","",146798,2002-08-20 15:58:13 UTC,2015-05-10 23:28:41 UTC
+153,Procyanidin dimer B4,578.52,"C-(4a,8)-EC",C30H26O12,"",27589,147299,2004-09-10 00:00:00 UTC,2015-05-10 23:28:41 UTC
+133,Theaflavin,564.494,"",C29H24O12,4670-05-7,"",114777,2003-04-01 10:17:20 UTC,2015-05-10 23:28:41 UTC
+202,Eriodictyol,288.252,"5,7,3',4'-Tetrahydroxyflavanone",C15H12O6,552-58-9,28412,440735,2002-09-02 13:47:46 UTC,2015-05-10 23:28:43 UTC
+203,Hesperetin,302.279,"5,7,3'-Trihydroxy-4'-methoxyflavanone ; 4'-Methyleriodictyol",C16H14O6,520-33-2,28230,72281,2002-09-02 11:56:21 UTC,2015-05-10 23:28:43 UTC
+799,"Hesperetin 3',7-O-diglucuronide",654.527,"",C28H30O18,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+791,Hesperetin 3'-O-glucuronide,478.403,"",C22H22O12,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+793,Hesperetin 3'-sulfate,382.342,"",C16H14O9S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+800,"Hesperetin 5,7-O-diglucuronide",654.527,"",C28H30O18,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+792,Hesperetin 7-O-glucuronide,478.403,"",C22H22O12,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+207,Hesperidin,610.561,Hesperetin 7-O-rutinoside,C28H34O15,520-26-3,28775,10621,2002-09-04 15:52:52 UTC,2015-05-10 23:28:43 UTC
+795,Homoeriodictyol,302.279,"",C16H14O6,"","",73635,2010-11-10 00:00:00 UTC,2013-10-17 16:06:38 UTC
+218,Isosakuranetin,286.279,"5,7-Dihydroxy-4'-methoxyflavanone ; 4'-Methylnaringenin ; Citrifoliol",C16H14O5,480-43-3,"",160481,2005-05-26 12:06:13 UTC,2015-05-10 23:28:44 UTC
+201,Naringenin,272.253,"5,7,4'-Trihydroxyflavanone",C15H12O5,480-41-1,17846,439246,2002-09-02 11:57:04 UTC,2015-05-10 23:28:43 UTC
+796,Naringenin 4'-O-glucuronide,448.377,"",C21H20O11,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+797,Naringenin 5-O-glucuronide,448.377,"",C21H20O11,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+798,Naringenin 7-O-glucuronide,448.377,"",C21H20O11,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:01 UTC
+208,Naringin,580.535,Naringenin 7-O-neohesperidoside,C27H32O14,10236-47-2,28819,442428,2002-09-04 15:55:15 UTC,2015-05-10 23:28:43 UTC
+211,Neohesperidin,610.561,Hesperetin 7-O-neohesperidoside,C28H34O15,"","",442439,2002-09-04 16:00:24 UTC,2015-05-10 23:28:43 UTC
+318,Isorhamnetin,316.262,"3,5,7,4'-Tetrahydroxy-3'-methoxyflavone ; 3'-Methylquercetin",C16H12O7,480-19-3,"",5281654,2002-09-02 11:41:58 UTC,2015-05-10 23:28:47 UTC
+326,Isorhamnetin 3-O-glucoside,478.403,"",C22H22O12,"","",5318645,2004-06-18 00:00:00 UTC,2015-05-10 23:28:47 UTC
+331,Isorhamnetin 3-O-glucuronide,492.386,"",C22H20O13,"","","",2005-01-28 15:54:47 UTC,2015-05-10 23:28:47 UTC
+822,Isorhamnetin 4'-O-glucuronide,492.386,"",C22H20O13,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+290,Kaempferol,286.236,"3,5,7,4'-Tetrahydroxyflavone",C15H10O6,520-18-3,28499,5280863,2002-09-02 11:41:58 UTC,2015-05-10 23:28:46 UTC
+291,Quercetin,302.236,"3,5,7,3',4'-Pentahydroxyflavone",C15H10O7,117-39-5,16243,5280343,2002-08-20 00:00:00 UTC,2015-05-10 23:28:46 UTC
+819,Quercetin 3'-O-glucuronide,478.36,"",C21H18O13,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+820,Quercetin 3'-sulfate,382.299,"",C15H10O10S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+307,"Quercetin 3,4'-O-diglucoside",626.517,"",C27H30O17,"","",5320835,2002-09-25 17:02:15 UTC,2015-05-10 23:28:47 UTC
+293,Quercetin 3-O-glucoside,464.376,Isoquercitrin ; Isoquercetin,C21H20O12,21637-25-2,28299,5280804,2002-08-22 11:36:11 UTC,2015-05-10 23:28:46 UTC
+330,Quercetin 3-O-glucuronide,478.36,"",C21H18O13,"","","",2005-01-28 15:35:45 UTC,2015-05-10 23:28:47 UTC
+296,Quercetin 3-O-rutinoside,610.518,Rutin ; Quercetin 3-O-rhamnosyl-glucoside,C27H30O16,153-18-4,28527,5280805,2002-08-21 15:16:36 UTC,2015-05-10 23:28:46 UTC
+821,Quercetin 4'-O-glucuronide,478.36,"",C21H18O13,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+825,"2',7-Dihydroxy-4',5'-dimethoxyisoflavone",314.289,"",C17H14O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+827,2'-Hydroxyformononetin,284.263,"",C16H12O5,"","",5280551,2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+826,2-Dehydro-O-desmethylangolensin,256.253,1-(4-Hydroxyphenyl)-2-(4-hydroxyphenyl)propan-1-one,C15H12O4,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+900,"3',4',5,7-Tetrahydroxyisoflavanone",288.252,"",C15H12O6,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+828,"3',4',7-Trihydroxyisoflavan",258.269,"",C15H14O4,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+829,"3',4',7-Trihydroxyisoflavanone",272.253,"",C15H12O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+832,3'-Hydroxy-O-desmethylangolensin,274.269,"",C15H14O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+831,3'-Hydroxydaidzein,270.237,"7,3',4'-Trihydroxyisoflavone",C15H10O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+906,3'-Hydroxyequol,258.269,"",C15H14O4,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+903,3'-Hydroxygenistein,286.236,"",C15H10O6,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+913,3'-Hydroxymelanettin,300.263,"",C16H12O6,"","",5318262,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+901,3'-O-Methylequol,272.296,"",C16H16O4,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+920,3'-O-Methylviolanone,330.332,"",C18H18O6,"","",10019512,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+833,"4',6,7-Trihydroxyisoflavanone",272.253,"",C15H12O5,"","",125100,2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+835,"4',7-Dihydroxy-3'-methoxyisoflavan",272.296,"",C16H16O4,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+836,"4',7-Dihydroxy-6-methoxyisoflavan",272.296,6-Methoxyequol,C16H16O4,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+908,"4'-Methoxy-2',3,7-trihydroxyisoflavanone",302.279,"",C16H14O6,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+838,4'-O-Methylequol,256.296,"",C16H16O3,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+843,5'-Hydroxy-O-desmethylangolensin,274.269,"",C15H14O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+844,5'-Methoxy-O-desmethylangolensin,288.295,"",C16H16O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+839,"5,6,7,3',4'-Pentahydroxyisoflavone",302.236,"",C15H10O7,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+840,"5,6,7,4'-Tetrahydroxyisoflavone",286.236,"",C15H10O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+841,"5,7,8,3',4'-Pentahydroxyisoflavone",302.236,"",C15H10O7,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+842,"5,7,8,4'-Tetrahydroxyisoflavone",286.236,"",C15H10O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+891,"5,7-Dihydroxy-8,4'-dimethoxyisoflavone",330.289,"",C17H14O7,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+407,6''-O-Malonyldaidzin,502.424,"6''-O-Malonyldaidzein 7-O-glucoside; 6''-O-Malonyl-7,4'-dihydroxyisoflavone 7-O-glucoside; Malonyldaidzin",C24H22O12,"","",9913968,2009-06-10 15:09:22 UTC,2015-05-10 23:28:50 UTC
+848,6'-Hydroxy-O-desmethylangolensin,274.269,"",C15H14O5,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+847,6'-Hydroxyangolensin,288.295,"",C16H16O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+845,"6,7,3',4'-Tetrahydroxyisoflavone",286.236,"",C15H10O6,"","",5466141,2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+846,"6,7,4'-Trihydroxyisoflavone",270.237,"",C15H10O5,"","",5284649,2010-11-10 00:00:00 UTC,2013-10-17 16:06:39 UTC
+905,6-Hydroxydihydrodaidzein,272.253,"",C15H12O5,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+902,6-O-Methylequol,272.296,"",C16H16O4,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+851,"7,8,3',4'-Tetrahydroxyisoflavone",286.236,"",C15H10O6,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+852,"7,8,4'-Trihydroxyisoflavone",270.237,"",C15H10O5,"","",5466139,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+921,8-Hydroxydihydrodaidzein,272.253,"",C15H12O5,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+853,Angolensin,272.296,"",C16H16O4,"","",3584988,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+397,Biochanin A,284.263,"5,7-Dihydroxy-4'-methoxyisoflavone ; 4'-Methylgenistein ; Pratensol",C16H12O5,491-80-5,17574,5280373,2004-09-08 00:00:00 UTC,2015-05-10 23:28:49 UTC
+912,Butin,272.253,"",C15H12O5,"","",92775,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+854,Calycosin,284.263,"",C16H12O5,"","",5280448,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+907,cis-4-Hydroxyequol,258.269,"",C15H14O4,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+394,Daidzein,254.238,"7,4'-Dihydroxyisoflavone ; Daidzeol",C15H10O4,486-66-8,28197,5281708,2004-11-24 00:00:00 UTC,2015-05-10 23:28:49 UTC
+857,Daidzein 4'-O-glucuronide,430.362,"",C21H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+859,Daidzein 7-O-glucuronide,430.362,"",C21H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+403,Daidzin,416.378,"Daidzein 7-O-glucoside; 7,4'-Dihydroxyisoflavone 7-O-glucoside",C21H20O9,552-66-9,42202,107971,2009-06-08 16:37:45 UTC,2015-05-10 23:28:50 UTC
+884,Daidzin 4'-O-glucuronide,592.502,"",C27H28O15,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+919,Dalbergin,268.264,"",C16H12O4,"","",442768,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+860,Dihydrobiochanin A,286.279,"",C16H14O5,"","",439784,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+861,Dihydrodaidzein,256.253,"",C15H12O4,"","",176907,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+862,Dihydrodaidzein 7-O-glucuronide,432.378,"",C21H20O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+863,Dihydroformononetin,270.28,"",C16H14O4,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+864,Dihydrogenistein,272.253,"",C15H12O5,"","",14544209,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+865,Dihydroglycitein,286.279,"",C16H14O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+866,Equol,242.27,"",C15H14O3,"","",91469,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+894,Equol 4'-O-glucuronide,418.394,"",C21H22O9,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+893,Equol 7-O-glucuronide,418.394,"",C21H22O9,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+395,Formononetin,268.264,7-Hydroxy-4'-methoxyisoflavone ; 4'-Methyldaidzein ; Biochanin B ; Neochanin ; Pratol,C16H12O4,485-72-3,18088,5280378,2004-09-08 00:00:00 UTC,2015-05-10 23:28:49 UTC
+867,Formononetin 7-O-glucuronide,444.388,"",C22H20O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+396,Genistein,270.237,"5,7,4'-Trihydroxyisoflavone ; Prunetol ; Sophoricol ; Genisteol",C15H10O5,446-72-0,28088,5280961,2004-11-24 00:00:00 UTC,2015-05-10 23:28:49 UTC
+869,"Genistein 4',7-O-diglucuronide",622.485,"",C27H26O17,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+871,Genistein 4'-O-glucuronide,446.361,"",C21H18O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+873,Genistein 5-O-glucuronide,446.361,"",C21H18O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+874,Genistein 7-O-glucuronide,446.361,"",C21H18O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+398,Glycitein,284.263,"7,4'-Dihydroxy-6-methoxyisoflavone ; Glycitein",C16H12O5,40957-83-3,"",5317750,2007-06-29 00:00:00 UTC,2015-05-10 23:28:49 UTC
+876,Glycitein 4'-O-glucuronide,460.388,"",C22H20O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+877,Glycitein 7-O-glucuronide,460.388,"",C22H20O11,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+400,Glycitin,446.404,"Glycitein 7-O-glucoside ; 7,4'-Dihydroxyi-6-methoxyisoflavone 7-O-glucoside",C22H22O10,"","",187808,2009-06-08 15:59:33 UTC,2015-05-10 23:28:49 UTC
+909,Irilone,298.247,"",C16H10O6,"","",5281779,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+888,Irisolidone,314.289,"",C17H14O6,"","",5281781,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+885,Irisolidone 7-O-glucuronide,490.414,"",C23H22O12,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+918,Isoliquiritigenin,256.253,"",C15H12O4,"","",638278,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+892,Isotectorigenin,300.263,"",C16H12O6,"","",5353911,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+878,Koparin,300.263,"",C16H12O6,"","",5318834,2010-11-10 00:00:00 UTC,2013-10-17 16:06:40 UTC
+915,Melanettin,284.263,"",C16H12O5,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+879,O-Desmethylangolensin,258.269,"",C15H14O4,"","",89472,2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+880,Orobol,286.236,"3',4',5,7-Tetrahydroxyisoflavone",C15H10O6,"","",5281801,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+881,Prunetin,284.263,"",C16H12O5,"","",5281804,2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+882,Pseudobaptigenin,282.248,"",C16H10O5,"","",5281805,2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+883,Puerarin,416.378,"",C21H20O9,"","",5281807,2010-11-10 00:00:00 UTC,2013-10-17 16:06:41 UTC
+911,Sativanone,300.306,"",C17H16O5,"","",5321142,2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+916,Stevenin,284.263,"",C16H12O5,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+890,Tectoridin,462.404,"",C22H22O11,"","",5281810,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+889,Tectorigenin,300.263,"",C16H12O6,"","",5281811,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+887,Tectorigenin 4'-sulfate,380.326,"",C16H12O9S,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+886,Tectorigenin 7-sulfate,380.326,"",C16H12O9S,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+910,Vestitone,286.279,"",C16H14O5,"","",439310,2011-06-06 00:00:00 UTC,2013-10-17 16:06:41 UTC
+917,Violanone,316.305,"",C17H16O6,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:42 UTC
+1028,2'-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1022,2-Hydroxyenterodiol,318.364,"",C18H22O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1025,2-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1029,4'-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1023,4-Hydroxyenterodiol,318.364,"",C18H22O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1026,4-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1031,5-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1030,6'-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1024,6-Hydroxyenterodiol,318.364,"",C18H22O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1027,6-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1032,7-Hydroxyenterolactone,314.332,"",C18H18O5,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+614,7-Hydroxymatairesinol,374.384,"",C20H22O7,"","","",2005-09-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+617,Cyclolariciresinol,360.401,"",C20H24O6,"","","",2007-12-11 00:00:00 UTC,2015-05-10 23:28:56 UTC
+1019,Deoxyschisandrin,416.507,"",C24H32O6,"","",43595,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1009,Enterodiol,302.365,"",C18H22O4,"","",115089,2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1010,Enterolactone,298.333,"",C18H18O4,"","",10685477,2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+627,Episesaminol,370.353,"",C20H18O7,"","","",2007-12-12 00:00:00 UTC,2015-05-10 23:28:57 UTC
+1013,Gomisin D,530.564,"",C28H34O10,"","",3085191,2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1018,Gomisin M2,386.438,"",C22H26O6,"","",16728078,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+596,Lariciresinol,360.401,"",C20H24O6,83327-19-9,"",332427,2005-09-05 15:30:50 UTC,2015-05-10 23:28:56 UTC
+595,Matairesinol,358.385,"",C20H22O6,580-72-3,"",119205,2005-09-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+1012,Schisandrin,432.507,"",C24H32O7,"","",23915,2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1020,Schisandrin B,400.465,"",C23H28O6,"","",108130,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1021,Schisandrin C,384.422,"",C22H24O6,"","",443027,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1014,Schisandrol B,416.464,"",C23H28O7,"","",3001662,2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1016,Schisanhenol,402.481,"",C23H30O6,"","",73057,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1017,Schisantherin A,536.57,"",C30H32O9,"","",151529,2011-07-09 00:00:00 UTC,2015-05-10 23:29:03 UTC
+594,Secoisolariciresinol,365.395,"",C20H26O6,29388-59-8,"",11646293,2003-04-23 17:17:14 UTC,2015-05-10 23:28:56 UTC
+608,Sesaminol,370.353,"",C20H18O7,74061-79-3,"",94672,2007-12-05 00:00:00 UTC,2015-05-10 23:28:56 UTC
+1011,Sesaminol 2-O-triglucoside,830.737,"",C36H46O22,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1015,Tigloylgomicin H,500.581,"",C28H36O8,"","","",2011-07-09 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1063,"1,3,5-Trimethoxybenzene",168.19,"",C9H12O3,"","",69301,2010-11-10 00:00:00 UTC,2015-04-14 03:50:58 UTC
+1061,4-Ethylbenzoic acid,150.174,"",C9H10O2,"","",12086,2011-01-20 13:20:03 UTC,2013-10-17 16:06:47 UTC
+1062,Glycine,75.0666,"",C2H5NO2,"","",750,2010-11-10 00:00:00 UTC,2013-10-17 16:06:47 UTC
+1064,Vanilloylglycine,225.198,"",C10H11NO5,"","",3083688,2010-11-10 00:00:00 UTC,2013-10-17 16:06:47 UTC
+707,4-Ethylphenol,122.164,"",C8H10O,123-07-9,49584,31242,2007-02-21 00:00:00 UTC,2015-05-10 23:28:59 UTC
+723,Protocatechuic aldehyde,138.121,"3,4-Dihydroxybenzoic aldehyde",C7H6O3,139-85-5,50205,8768,2005-08-17 10:39:01 UTC,2015-05-10 23:29:00 UTC
+724,Vanillin,152.147,4-Hydroxy-3-methoxy-benzoic aldehyde ; Methylprotocatechuic aldehyde ; Vanillic aldehyde ; p-Vanillin,C8H8O3,121-33-5,18346,1183,2005-08-17 11:50:00 UTC,2015-05-10 23:29:00 UTC
+1054,Vanillin 4-sulfate,232.211,"",C8H8O6S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+1057,"2,4-Dihydroxyacetophenone 5-sulfate",232.211,"",C8H8O6S,"","","",2011-01-20 13:37:12 UTC,2015-05-10 23:29:03 UTC
+1058,2-Hydroxy-4-methoxyacetophenone 5-sulfate,262.237,"",C9H10O7S,"","","",2011-01-20 13:53:50 UTC,2015-05-10 23:29:04 UTC
+1060,Norathyriol,260.199,"1,3,6,7-Tetrahydroxyxanthone",C13H8O6,"","",12272,2011-02-07 11:00:11 UTC,2013-10-17 16:06:47 UTC
+1056,Paeonol,166.174,2'-Hydroxy-4'-methoxyacetophenone,C9H10O3,"","",11092,2011-01-20 13:26:14 UTC,2015-05-10 23:29:03 UTC
+1059,Resacetophenone,152.147,"",C8H8O3,"","",6990,2011-01-20 13:59:55 UTC,2015-05-10 23:29:04 UTC
+1037,Urolithin A,228.2,"3,8-Dihydroxy-6H-dibenzo[b,c]pyran-6-one",C13H8O4,"","",5488186,2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1035,"Urolithin A 3,8-O-diglucuronide",580.448,"",C25H24O16,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1038,Urolithin B,212.201,"",C13H8O3,"","",5488186,2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1039,Urolithin B 3-O-glucuronide,388.325,"",C19H16O9,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1040,Urolithin C,244.2,Hydroxyurolithin A,C13H8O5,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+643,Homovanillyl alcohol,168.19,3-Methoxy-4-hydroxyphenylethanol ; 4-Hydroxy-3-methoxyphenylethyl alcohol ; 4-(2-Hydroxyethyl)-guaiacol,C9H12O3,2380-78-1,"",16928,2007-11-06 00:00:00 UTC,2015-05-10 23:28:57 UTC
+654,Catechol,110.111,"1,2-Dihydroxybenzene ; 1,2-Benzenediol ; Pyrocatechin ; Pyrocatechol",C6H6O2,120-80-9,18135,289,2006-04-27 11:23:26 UTC,2015-05-10 23:28:58 UTC
+399,Coumestrol,268.221,"7,12-Dihydroxycoumestan ; Chrysanthin",C15H8O5,479-13-0,"",5281707,2007-06-29 00:00:00 UTC,2015-05-10 23:44:11 UTC
+1047,"Isopropyl 3-(3,4-dihydroxyphenyl)-2-hydroxypropanoate",240.252,"",C12H16O5,"","","",2011-03-17 10:59:09 UTC,2015-05-10 23:29:03 UTC
+1041,Lithospermic acid,538.456,"",C27H22O12,"","",6441498,2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+655,Pyrogallol,126.11,"1,2,3-Trihydroxybenzene ; 1,2,3-Benzenetriol ; Pyrogallic acid",C6H6O3,87-66-1,16164,1057,2006-04-27 11:23:26 UTC,2015-05-10 23:28:58 UTC
+1043,Salvianolic acid B,718.614,"",C36H30O16,"","",6441188,2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1044,Salvianolic acid C,492.431,"",C26H20O10,"","",5321087,2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1045,Salvianolic acid D,238.193,"",C11H10O6,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+1046,Salvianolic acid G,418.351,"",C20H18O10,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+681,"3,4-DHPEA-EDA",320.337,"3,4-DHPEA-Elenolic acid Di-Aldehyde ; Oleuropein-aglycone di-aldehyde ; (Decarboxymethyl oleuropein-aglycone major form)",C17H20O6,"","","",2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+674,Hydroxytyrosol,154.163,"3,4-DHPEA ; 4-(2-Hydroxyethyl)benzene-1,2-diol ; 2-(3,4-Dihydroxyphenyl)ethanol ; 3,4-Dihydroxyphenylethanol",C8H10O3,10597-60-1,"",82755,2005-09-05 14:01:22 UTC,2015-05-10 23:28:58 UTC
+677,Oleuropein,540.514,"3,4-DHPEA-Elenolic acid glucoside",C25H32O13,32619-42-4,"",5281544,2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+686,p-HPEA-EDA,304.338,p-HPEA-Elenolic acid Di-Aldehyde ; Ligstroside-aglycone di-aldehyde ; (Decarboxymethyl ligstroside-aglycone major form),C17H20O5,"","","",2007-10-17 00:00:00 UTC,2015-05-10 23:28:59 UTC
+673,Tyrosol,138.164,"p-HPEA ; 4-(2-Hydroxyethyl)phenol ; 2-(4-Hydroxyphenyl)ethanol ; 2,4-Hydroxyphenyl-ethyl-alcohol ; 4-Hydroxyphenylethanol",C8H10O2,501-94-0,"",10393,2005-09-05 13:56:59 UTC,2015-05-10 23:28:58 UTC
+1050,Tyrosol 4-sulfate,218.227,"",C8H10O5S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:03 UTC
+430,"2,3-Dihydroxybenzoic acid",154.12,"",C7H6O4,303-38-8,18026,19,2005-01-26 13:37:52 UTC,2015-05-10 23:28:51 UTC
+431,"2,4-Dihydroxybenzoic acid",154.12,"",C7H6O4,89-86-1,"",1491,2005-01-26 13:37:52 UTC,2015-05-10 23:28:51 UTC
+428,2-Hydroxybenzoic acid,138.121,o-Hydroxybenzoic acid ; Salicylic acid,C7H6O3,69-72-7,16914,338,2005-01-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+928,2-Hydroxyhippuric acid,411.715,Salicyluric acid,C18H33NO4Si3,"","",606220,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+924,"3,4-O-Dimethylgallic acid",198.173,"",C9H10O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+436,"3,5-Dihydroxybenzoic acid",154.12,a-Resorcylic acid ; 5-Carboxyresorcinol,C7H6O4,99-10-5,"",7424,2006-04-26 16:02:55 UTC,2015-05-10 23:28:51 UTC
+429,3-Hydroxybenzoic acid,138.121,m-Hydroxybenzoic acid,C7H6O3,99-06-9,30764,7420,2005-01-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+927,3-Hydroxyhippuric acid,195.172,"",C9H9NO4,"","",450268,2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+922,3-O-Methylgallic acid,184.146,Methyl-3-O-gallic acid,C8H8O5,"","",19829,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+418,4-Hydroxybenzoic acid,138.121,p-Hydroxybenzoic acid,C7H6O3,99-96-7,30763,135,2004-05-06 16:05:32 UTC,2015-05-10 23:28:50 UTC
+926,4-Hydroxyhippuric acid,195.172,"",C9H9NO4,"","",151012,2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+923,4-O-Methylgallic acid,184.146,Methyl-4-O-gallic acid,C8H8O5,"","",78016,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+427,Benzoic acid,122.121,"",C7H6O2,65-85-0,30746,243,2005-01-26 10:45:03 UTC,2015-05-10 23:28:50 UTC
+417,Ellagic acid,302.193,Benzoaric acid ; Lagistase ; (Gallic acid dimer),C14H6O8,476-66-4,4775,5281855,2004-08-26 00:00:00 UTC,2015-05-10 23:28:50 UTC
+450,Gallagic acid,604.385,"",C28H12O16,"","","",2008-07-22 00:00:00 UTC,2015-05-10 23:28:51 UTC
+413,Gallic acid,170.12,"3,4,5-Trihydroxybenzoic acid",C7H6O5,149-91-7,30778,370,2002-09-12 14:10:47 UTC,2015-05-10 23:28:50 UTC
+439,Gallic acid ethyl ester,198.173,Ethyl gallate,C9H10O5,"","","",2005-09-07 13:43:27 UTC,2015-05-10 23:28:51 UTC
+416,Gentisic acid,154.12,"2,5-Dihydroxybenzoic acid ; 5-Hydroxysalicylic acid",C7H6O4,490-79-9,17189,3469,2004-08-30 00:00:00 UTC,2015-05-10 23:28:50 UTC
+929,Hippuric acid,179.173,N-Benzoylglycine,C9H9NO3,"","",464,2010-11-10 00:00:00 UTC,2015-04-14 03:50:56 UTC
+930,Paeoniflorin,480.462,"",C23H28O11,"","",442534,2011-01-20 14:15:05 UTC,2013-10-17 16:06:42 UTC
+412,Protocatechuic acid,154.12,"3,4-Dihydroxybenzoic acid",C7H6O4,99-50-3,36062,72,2002-09-12 14:09:47 UTC,2015-05-10 23:28:50 UTC
+449,Punicalagin,1084.72,"2,3-(S)-Hexahydroxydiphenoyl-4,6-(S,S)-gallagyl-D-glucose",C48H28O30,65995-63-3,"",16129869,2008-04-16 00:00:00 UTC,2015-05-10 23:28:51 UTC
+925,Punicalin,782.525,"",C34H22O22,"","",5388496,2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+420,Syringic acid,198.173,"3,5-Dimethoxy-4-hydroxybenzoic acid",C9H10O5,530-57-4,"",10742,2004-06-18 00:00:00 UTC,2015-05-10 23:28:50 UTC
+414,Vanillic acid,168.147,4-Hydroxy-3-methoxybenzoic acid ; p-Vanillic acid,C8H8O4,121-34-6,30816,8468,2004-05-06 16:14:14 UTC,2015-05-10 23:28:50 UTC
+1055,Vanillic acid 4-sulfate,248.21,"",C8H8O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+526,"1,5-Dicaffeoylquinic acid",516.451,"",C25H24O12,"","","",2006-08-07 00:00:00 UTC,2016-06-02 09:01:19 UTC
+949,"1,5-Diferuloylquinic acid",544.504,"",C27H28O12,"","","",2011-03-17 10:27:34 UTC,2016-06-02 09:14:03 UTC
+950,1-Caffeoyl-5-feruloylquinic acid,530.477,"",C26H26O12,"","","",2011-03-17 10:29:44 UTC,2016-06-02 09:15:27 UTC
+951,1-Feruloyl-5-caffeoylquinic acid,530.477,"",C26H26O12,"","","",2011-03-17 10:36:19 UTC,2016-06-02 11:31:09 UTC
+520,"3,4-Dicaffeoylquinic acid",516.451,"",C25H24O12,"","",6711966,2006-07-11 00:00:00 UTC,2016-06-02 08:45:12 UTC
+484,"3,5-Dicaffeoylquinic acid",516.451,"",C25H24O12,"","",6474310,2004-11-18 00:00:00 UTC,2016-06-02 08:27:22 UTC
+467,3-Caffeoylquinic acid,354.309,Neochlorogenic acid,C16H18O9,327-97-9,16112,9476,2002-09-20 16:21:09 UTC,2016-06-02 08:19:48 UTC
+480,3-Feruloylquinic acid,368.335,"",C17H20O9,"","",5317346,2004-08-27 00:00:00 UTC,2016-06-02 09:10:06 UTC
+931,3-O-Methylrosmarinic acid,374.341,"",C19H18O8,"","","",2011-03-17 09:28:15 UTC,2015-05-10 23:29:02 UTC
+527,"4,5-Dicaffeoylquinic acid",516.451,"",C25H24O12,"","","",2006-08-07 00:00:00 UTC,2015-05-10 23:28:53 UTC
+479,4-Feruloylquinic acid,368.335,"",C17H20O9,"","","",2004-08-27 00:00:00 UTC,2015-05-10 23:28:52 UTC
+475,5-Caffeoylquinic acid,354.309,Chlorogenic acid,C16H18O9,327-97-9,16112,12310830,2004-08-26 00:00:00 UTC,2016-06-02 08:17:27 UTC
+478,5-Feruloylquinic acid,368.335,"",C17H20O9,"","","",2004-08-27 00:00:00 UTC,2016-05-30 07:49:03 UTC
+455,5-p-Coumaroylquinic acid,338.309,"",C16H18O8,"","","",2002-08-28 13:39:07 UTC,2015-05-10 23:28:51 UTC
+457,Caffeic acid,180.157,"3,4-Dihydroxycinnamic acid",C9H8O4,331-39-5,17395,689043,2002-08-21 08:54:05 UTC,2015-05-10 23:28:51 UTC
+945,Caffeic acid 3-O-glucuronide,356.281,"",C15H16O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+941,Caffeic acid 3-sulfate,260.221,"",C9H8O7S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+946,Caffeic acid 4-O-glucuronide,356.281,"",C15H16O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+940,Caffeic acid 4-sulfate,260.221,"",C9H8O7S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+947,Caffeoyl C1-glucuronide,356.281,"",C15H16O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+459,Ferulic acid,194.184,3-Methoxy-4-Hydroxycinnamic acid ; 3-Methylcaffeic acid ; Coniferic acid,C10H10O4,1135-24-6,17620,709,2002-09-23 09:04:36 UTC,2015-05-10 23:28:51 UTC
+939,Ferulic acid 4-O-glucuronide,370.308,"",C16H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+938,Ferulic acid 4-sulfate,274.247,"",C10H10O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+943,Feruloyl C1-glucuronide,370.308,"",C16H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+935,Feruloylglycine,250.227,"",C12H12NO5,"","",25245295,2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+485,Isoferulic acid,194.184,4-Methoxy-3-Hydroxycinnamic acid ; 4-Methylcaffeic acid,C10H10O4,537-73-5,"",736186,2004-11-19 13:38:28 UTC,2015-05-10 23:28:52 UTC
+936,Isoferulic acid 3-O-glucuronide,370.308,"",C16H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+937,Isoferulic acid 3-sulfate,274.247,"",C10H10O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:42 UTC
+944,Isoferuloyl C1-glucuronide,370.308,"",C16H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+463,m-Coumaric acid,164.158,m-Hydroxycinnamic acid,C9H8O3,588-30-7,18176,637541,2004-08-26 00:00:00 UTC,2015-05-10 23:28:51 UTC
+454,p-Coumaric acid,164.158,p-Hydroxycinnamic acid,C9H8O3,7400-08-0,36090,322,2002-09-25 13:36:42 UTC,2015-05-10 23:28:51 UTC
+461,Rosmarinic acid,360.315,"",C18H16O8,537-15-5,17226,5281792,2003-03-25 14:47:33 UTC,2015-05-10 23:28:51 UTC
+464,Sinapic acid,224.21,"3,5-Dimethoxy-4-hydroxycinnamic acid ; Sinapate ; Synapoic acid ; Sinapinic acid",C11H12O5,530-59-6,15714,10743,2002-09-19 09:46:19 UTC,2015-05-10 23:28:51 UTC
+958,2-Hydroxy-2-phenylacetic acid,152.147,Mandelic acid,C8H8O3,"","","",2011-04-10 16:38:27 UTC,2013-10-17 16:06:43 UTC
+953,2-Hydroxyphenylacetic acid,152.147,"",C8H8O3,"","",11970,2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+572,"3,4-Dihydroxyphenylacetic acid",168.147,DOPAC ; Homoprotocatechuic acid ; Homogentisic acid ; Dopacetic acid,C8H8O4,102-32-9,41941,547,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+952,3-Hydroxyphenylacetic acid,152.147,3-Hydroxyphenylacetic acid,C8H8O3,"","",12122,2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+957,4-Hydroxymandelic acid,168.147,"",C8H8O4,"","",328,2011-03-17 10:16:25 UTC,2013-10-17 16:06:43 UTC
+573,4-Hydroxyphenylacetic acid,152.147,"",C8H8O3,156-38-7,18101,127,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+574,Homovanillic acid,182.173,3-Methoxy-4-hydroxyphenylacetic acid ; 3-Methoxy-4-hydroxyphenylacetate ; 4-Hydroxy-3-methoxybenzeneacetic acid,C9H10O4,306-08-1,"",1738,2005-01-26 13:32:01 UTC,2015-05-10 23:28:54 UTC
+1053,Homovanillic acid 4-sulfate,262.237,"",C9H10O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:46 UTC
+955,Phenacetylglycine,193.199,N-Phenylacetylaminoacetic acid,C10H11NO3,"","",68144,2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+956,Phenylacetic acid,136.148,"",C8H8O2,"","",999,2011-01-31 09:34:08 UTC,2013-10-17 16:06:43 UTC
+987,3-Hydroxyphenylvaleric acid,194.227,"",C11H14O3,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+981,"4-Hydroxy-(3',4'-dihydroxyphenyl)valeric acid",226.226,"4-hydroxy-5-(3,4-dihydroxyphenyl)-valeric acid",C11H14O5,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+983,"5-(3',4',-dihydroxyphenyl)-?-valerolactone",208.211,"",C11H12O4,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+984,"5-(3',4',5'-trihydroxyphenyl)-?-valerolactone",224.21,"",C11H12O5,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+982,"5-(3',4'-dihydroxyphenyl)-valeric acid",210.227,"3,4-dihydroxyphenylvaleric acid",C11H14O4,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+985,"5-(3',5'-dihydroxyphenyl)-?-valerolactone",208.211,"",C11H12O4,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+988,"5-(3',5'-dihydroxyphenyl)-?-valerolactone 3-O-glucuronide",384.335,"",C17H20O10,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+979,5-(3'-Methoxy-4'-hydroxyphenyl)-?-valerolactone,222.237,3-methoxy-4-hydroxyphenylvalerolactone,C12H14O4,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+973,"3,4-Dihydroxyphenyllactic acid methyl ester",212.199,"",C10H12O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+960,"3-(3,4-Dihydroxyphenyl)-2-methoxypropionic acid",212.199,"",C10H12O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+959,3-Hydroxy-3-(3-hydroxyphenyl)propionic acid,182.173,"",C9H10O4,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+976,3-Hydroxy-4-methoxyphenyllactic acid,212.199,3-Methoxy-4-hydroxyphenylhydracrylic acid,C10H12O5,"","","",2011-02-11 15:41:36 UTC,2013-10-17 16:06:44 UTC
+961,3-Hydroxyphenylpropionic acid,166.174,"",C9H10O3,"","",622263,2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+972,3-Methoxy-4-hydroxyphenyllactic acid,212.199,"",C10H12O5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:44 UTC
+975,3-Phenylpropionic acid,150.174,"",C9H10O2,"","",107,2011-01-20 12:10:30 UTC,2013-10-17 16:06:44 UTC
+978,4-Hydroxyphenyl-2-propionic acid,166.174,"",C9H10O3,"","","",2011-06-06 00:00:00 UTC,2013-10-17 16:06:44 UTC
+971,Danshensu,198.173,"3,4-Dihydroxyphenyllactic acid",C9H10O5,"","",152463,2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+579,Dihydrocaffeic acid,182.173,"3-(3,4-Dihydroxyphenyl)-propanoic acid ; 3,4-Dihydroxyhydrocinnamic acid ; 2,3-Dihydrocaffeic acid",C9H10O4,1078-61-1,48400,348154,2003-05-05 11:53:32 UTC,2015-05-10 23:28:55 UTC
+964,Dihydrocaffeic acid 3-O-glucuronide,358.297,"",C15H18O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+965,Dihydrocaffeic acid 3-sulfate,262.237,"",C9H10O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+966,Dihydroferulic acid,196.2,Hydroferulic acid,C10H12O4,"","",14340,2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+967,Dihydroferulic acid 4-O-glucuronide,372.324,"",C16H20O10,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+962,Dihydroferulic acid 4-sulfate,276.263,"",C10H12O7S,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+970,Dihydroferuloylglycine,253.251,"",C12H15NO5,"","","",2010-11-10 00:00:00 UTC,2013-10-17 16:06:43 UTC
+968,Dihydrosinapic acid,226.226,"",C11H14O5,"","","",2010-11-10 00:00:00 UTC,2015-04-14 03:50:57 UTC
+974,Hydroxydanshensu,214.0,"",C9H10O6,"","","",2010-11-10 00:00:00 UTC,2011-10-15 02:49:59 UTC
+990,"3'-Hydroxy-3,4,5,4'-tetramethoxystilbene",302.322,"",C17H18O5,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+989,"3,4,5,4'-Tetramethoxystilbene",476.718,"",C26H44N4O2S,"","",239676,2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+993,"4'-Hydroxy-3,4,5-trimethoxystilbene",286.322,"",C17H18O4,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+994,"4-Hydroxy-3,5,4'-trimethoxystilbene",286.322,"",C17H18O4,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+995,cis-Resveratrol 3-O-glucuronide,404.367,"",C20H20O9,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+996,cis-Resveratrol 3-sulfate,308.306,"",C14H12O6S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+997,cis-Resveratrol 4'-O-glucuronide,404.367,"",C20H20O9,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+998,cis-Resveratrol 4'-sulfate,308.306,"",C14H12O6S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1008,Dihydroresveratrol,230.259,"",C14H14O3,"","",185914,2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+592,Resveratrol,228.243,"3,5,4'-Trihydroxystilbene",C14H12O3,501-36-0,27881,445154,2005-03-15 10:04:40 UTC,2015-05-10 23:28:56 UTC
+1000,Resveratrol 3-sulfate,308.306,"",C14H12O6S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+580,Trans-Resveratrol,228.243,"3,5,4'-Trihydroxystilbene",C14H12O3,501-36-0,45713,445154,2005-03-15 10:04:40 UTC,2015-05-10 23:28:55 UTC
+1003,"trans-Resveratrol 3,4'-disulfate",388.37,"",C14H12O9S2,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1002,"trans-Resveratrol 3,5-disulfate",388.37,"",C14H12O9S2,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1004,trans-Resveratrol 3-O-glucuronide,404.367,"",C20H20O9,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1005,trans-Resveratrol 3-sulfate,308.306,"",C14H12O6S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1006,trans-Resveratrol 4'-O-glucuronide,404.367,"",C20H20O9,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
+1007,trans-Resveratrol 4'-sulfate,308.306,"",C14H12O6S,"","","",2010-11-10 00:00:00 UTC,2015-05-10 23:29:02 UTC
