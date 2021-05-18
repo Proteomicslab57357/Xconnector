@@ -22,7 +22,7 @@ In future, we aim to include the most used databases for metabolites data.
 
 # Workflow implementation
 
-<img src="https://github.com/Proteomicslab57357/Xconnector/blob/master/image/Untitled%20Diagram%20(1).png" width="500" height="700">
+<img src="https://github.com/Proteomicslab57357/Xconnector/blob/master/image/Untitled%20Diagram%20(1).png" width="500" height="600">
 
 
 * This workflow summarizes how Xconnector works. Using a graphical user interface (GUI), the user could import different type of input as database IDs or keyword from a CSV file or text file. Then send it to the application programming interface (API), the API connect one or all databases to retrieve and parse the information that made hits with the user input. Finally, the API send it back to the GUI to be displayed for the user.
