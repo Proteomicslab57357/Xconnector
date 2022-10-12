@@ -14,6 +14,10 @@ Xconnector is a software package designed to easily retrieve, and visualize meta
 
 In future, we aim to include the most used databases for metabolites data.
 
+# **Citaion**
+
+https://doi.org/10.1016/j.jprot.2021.104302
+
 # API & GUI Implementation
 
 * The API function connects databases in Xconnector is made to be programmatically efficient. Using python generators implementation, only one query is called from the database each time by the API. This will reduce the memory used by Xconnector, as well as overcome the errors that could occur during the slow internet connection.
