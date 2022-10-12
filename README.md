@@ -62,7 +62,7 @@ pip install Xconnector
 
 * For Windows 10 users only.
 
-  Download the zip file from [here](https://beta.57357.org/wp-content/themes/57357/programs/Xconnector.zip). After, extract it and double click on the icon named Xconnector.exe to run the software.
+  Download the zip file from [here]([https://beta.57357.org/wp-content/themes/57357/programs/Xconnector.zip](https://drive.google.com/file/d/1LkWYdp6nejl6AA6a1dhhMIJ_pm6eDBLP/view)). After, extract it and double click on the icon named Xconnector.exe to run the software.
 
 * For any operating system.
 
